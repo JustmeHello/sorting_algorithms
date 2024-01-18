@@ -1,0 +1,3 @@
+Best Case:O(n + k) where n is the number of elements in the array and k is the range of input
+Average Case: O(n+k)
+Worst Case: O(n+k)
